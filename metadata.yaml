@@ -1,0 +1,30 @@
+_repo: The-Wolf-slayer-Margaret-Kaurner_74582
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schmid, Christoph von
+    alias: Von Schmid, Christoph
+    birthdate: 1768
+    deathdate: 1854
+    gutenberg_agent_id: '5355'
+    url: http://www.gutenberg.org/2009/agents/5355
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Christoph_von_Schmid
+    - https://en.wikipedia.org/wiki/Christoph_von_Schmid
+description: ''
+gutenberg_issued: '2024-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74582'
+language: en
+pgterms:marc905: 20240923070131vonschmid
+pgterms:marc906: '1911'
+pgterms:marc907: US
+publication_note: '  $aNew York :$bAmerican Tract Society, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Wolf-slayer; Margaret Kaurner
+url: http://www.gutenberg.org/ebooks/74582
