@@ -1,5 +1,8 @@
 _repo: The-Wolf-slayer-Margaret-Kaurner_74582
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schmid, Christoph von
@@ -12,6 +15,8 @@ creator:
     - https://de.wikipedia.org/wiki/Christoph_von_Schmid
     - https://en.wikipedia.org/wiki/Christoph_von_Schmid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74582#The-Wolf-slayer-Margaret-Kaurner
 gutenberg_issued: '2024-10-15'
 gutenberg_type: Text
 identifiers:
